@@ -41,4 +41,7 @@
 - `최근게시물 제작` : border-radius를 이용한 제작
   * [영상보기](https://youtu.be/LqXOHI70VkI)
   * [결과페이지 보기](https://rebehayan.github.io/contents/list/)
+- `쇼핑몰 리스트` : HTML4, CSS1,2를 활용한 쇼핑몰 상품 리스트
+  * [영상보기](https://youtu.be/JhUOW7U742Y)
+  * [결과페이지 보기](https://rebehayan.github.io/contents/shopping2/)
 ***
