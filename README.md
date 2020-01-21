@@ -12,17 +12,8 @@
 10. `쇼핑몰 상품 상세보기` : HTML5, CSS3로 제작한 상품 상세보기/정보페이지 제작 [영상보기](https://youtu.be/QXJ7qXtZlTw) | [결과페이지 보기](https://rebehayan.github.io/contents/shopping/list.html)
 11. `사이트맵` : 애니메이션과 함께 있는 사이트맵 제작 [영상보기](https://youtu.be/sFZahyiSgYI) | [결과페이지 보기](https://rebehayan.github.io/contents/sitemap/sitemap.html)
 12. `탭메뉴` : HTML5, CSS3를 활용한 탭메뉴 / 자바스크립트 미포함 [영상보기](https://youtu.be/JDxIq9LQc90) | [결과페이지 보기](https://rebehayan.github.io/contents/tab/tab.html)
-
-- `테이블 제작` : 병합된 복잡한 표제작 / HTML4, CSS1,2를 활용한 테이블 제작
-  * 촬영된 영상이 없습니다.
-  * [결과페이지 보기](https://rebehayan.github.io/contents/table/table9.html)
-- `최근게시물 제작` : border-radius를 이용한 제작
-  * [영상보기](https://youtu.be/LqXOHI70VkI)
-  * [결과페이지 보기](https://rebehayan.github.io/contents/list/)
-- `쇼핑몰 리스트` : HTML4, CSS1,2를 활용한 쇼핑몰 상품 리스트
-  * [영상보기](https://youtu.be/JhUOW7U742Y)
-  * [결과페이지 보기](https://rebehayan.github.io/contents/shopping2/)
-- `카테고리 리스트` : HTML4, CSS1,2 활용
-  * [영상보기](https://youtu.be/s7dM0cIHMrQ)
-  * [결과페이지 보기](https://rebehayan.github.io/contents/list2/)
+13. `테이블 제작` : 병합된 복잡한 표제작 / HTML4, CSS1,2를 활용한 테이블 제작  **촬영된 영상이 없습니다.** | [결과페이지 보기](https://rebehayan.github.io/contents/table/table9.html)
+14. `최근게시물 제작` : border-radius를 이용한 제작 [영상보기](https://youtu.be/LqXOHI70VkI) | [결과페이지 보기](https://rebehayan.github.io/contents/list/)
+15. `쇼핑몰 리스트` : HTML4, CSS1,2를 활용한 쇼핑몰 상품 리스트 [영상보기](https://youtu.be/JhUOW7U742Y) | [결과페이지 보기](https://rebehayan.github.io/contents/shopping2/)
+16. `카테고리 리스트` : HTML4, CSS1,2 활용 [영상보기](https://youtu.be/s7dM0cIHMrQ) | [결과페이지 보기](https://rebehayan.github.io/contents/list2/)
 ***
