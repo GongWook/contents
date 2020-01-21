@@ -1,4 +1,8 @@
 # 콘텐츠 따라만들기
+##약관동의
+
+1. 접근성까지 고려한 약관 동의  [영상보기](https://youtu.be/D5U3zHZ9Ghg)  |  [결과페이지 보기](https://rebehayan.github.io/contents/agree/)
+
 - `약관동의` : 접근성까지 고려한 약관동의
   * [영상보기](https://youtu.be/D5U3zHZ9Ghg)
   * [결과페이지 보기](https://rebehayan.github.io/contents/agree/)
